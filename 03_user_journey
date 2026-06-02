@@ -1,0 +1,16 @@
+Current State:
+
+Start of Review week, QA Admin generates files to be reviewed
+QA Admin manually loads the files on multiple spreadsheets based on region and lob
+QA goes into a sheet and self-assigns multiple files to themselves
+QA evaluates the calls
+Updates spreadsheet which rows where evaluation has been completed
+Agent and Teamlead receives an email for each completed evaluation falling below threshold
+Team lead reviews
+Coaching scheduled manually
+
+Pain Points:
+Process is too manual from start to finish
+Duplicate work
+Delays
+Lost records
