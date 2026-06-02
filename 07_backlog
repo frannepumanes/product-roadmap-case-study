@@ -1,0 +1,19 @@
+Product Backlog (15)
+
+Epic: Evaluations
+
+As a QA Specialist,
+I want to complete evaluations using standardized scorecards,
+so that scoring remains consistent.
+
+Acceptance Criteria:
+
+Scorecard loads correctly
+Required fields validated
+Submission saved automatically
+
+Epic: Coaching
+
+As a Team Leader,
+I want to assign coaching sessions,
+so that agents can improve performance.
