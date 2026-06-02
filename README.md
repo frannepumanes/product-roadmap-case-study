@@ -7,9 +7,9 @@ A SaaS platform that helps customer support and operations teams manage QA evalu
 
 Contents:
 
-Product Vision
-Problem Statement
-User Personas
-Prioritization Matrix
-Roadmap
-Success Metrics
+(1) Product Vision
+(2) Problem Statement
+(3) User Personas
+(4) Prioritization Matrix
+(5) Roadmap
+(6) Success Metrics
