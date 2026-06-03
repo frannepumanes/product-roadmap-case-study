@@ -17,3 +17,21 @@ Epic: Coaching
 As a Team Leader,
 I want to assign coaching sessions,
 so that agents can improve performance.
+
+Acceptance Criteria:
+
+Scorecard loads correctly
+Coaching sessions created
+Follow up coaching sessions set
+
+Epic: Centralized Reporting
+
+As an Operations Manager,
+I want to be able to view reports,
+so that I gain insights what to do to help the program improve performance.
+
+Acceptance Criteria:
+
+Dashboards load data correctly
+Dashboards share the freshest data available every 4 hours
+Dashboard users have the option to subscribe to reports they want to automatically get the latest update on, once available
